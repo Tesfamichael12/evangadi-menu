@@ -6,7 +6,7 @@ class FoodItemCard extends Component {
       <>
         {/* const props = {
                         key: item.id,
-                        footItmeImg: itme.img,
+                        foodItemImg: itme.img,
                         foodItmeHeading: item.title,
                         Price: item.price,
                         foodDesc: itme.desc
