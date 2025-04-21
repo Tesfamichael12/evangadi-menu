@@ -1,5 +1,3 @@
-import { StrictMode } from "react";
-import { createRoot } from "react-dom/client";
 import "./App.css";
 import menu from "./common/data";
 import Header from "./components/Header/Header";
